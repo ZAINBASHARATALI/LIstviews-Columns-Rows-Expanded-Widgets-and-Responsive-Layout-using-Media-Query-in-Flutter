@@ -1,6 +1,6 @@
-# task_2
+# Augersoft task_2
 
-A new Flutter project.
+A new Flutter project for Implementation of Listviews, Rows, Columns, Expanded Widgets and MediaQuery for complex Responsive Layouts.
 
 ## Getting Started
 
